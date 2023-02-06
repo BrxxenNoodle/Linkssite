@@ -1,0 +1,37 @@
+<style>
+    .welcome-message-text {
+
+
+        font-weight: bold;
+        color: purple;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+
+    }
+
+    
+
+    .Link {
+
+        color:red;
+
+        margin-left: 20px; 
+}
+        
+
+          
+
+
+        a:hover {
+  background-color: pink;
+}
+</style>
+
+
+
+
+<p class="welcome-message-text">Welcome to the link site where i put the links to funny websites that amuse me! (Dm me links to add here: BrxxenNoodle#8686)</p>
+<a class="Link" href="https://www.youtube.com/channel/UCJzriINq2Un6vQiED6-YrYw">BrxxenNoodles Youtube Channel</a>
+<a class="Link" href="https://www.youtube.com/channel/UCBP9EmePNubrlM_AfSVrlnw">CodHenwys Youtube Channel</a>
+<a class="Link" href="https://www.youtube.com/channel/UCvD6VqaoC6fEqs_G6JIzMRA">PillowNetics Youtube channel</a>
